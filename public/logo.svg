@@ -1,0 +1,10 @@
+<svg viewBox="0 0 300 300" width="300" height="300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="150" cy="150" r="137" stroke="#222222" stroke-width="4" stroke-linecap="round"/>
+  <path d="M 45 92 C 16 148, 22 222, 68 262 C 118 304, 202 298, 252 258 C 292 218, 296 142, 254 84 C 212 36, 122 36, 74 72 C 44 94, 34 134, 38 172" stroke="#222222" stroke-width="2.8" stroke-linecap="round" stroke-opacity="0.85"/>
+  <path d="M 58 68 C 108 30, 208 28, 258 78 C 298 122, 294 202, 248 252 C 198 304, 88 296, 44 236 C 18 196, 24 122, 68 76" stroke="#222222" stroke-width="1.8" stroke-linecap="round" stroke-opacity="0.75"/>
+  <text x="150" y="86" text-anchor="middle" fill="#222222" font-family="'Great Vibes', 'Alex Brush', cursive" font-size="52" font-weight="bold">L.A.</text>
+  <path d="M 150 102 C 147.5 98, 142 98, 142 103.5 C 142 109, 150 115, 150 116 C 150 115, 158 109, 158 103.5 C 158 98, 152.5 98, 150 102 Z" fill="#222222"/>
+  <text x="148" y="168" text-anchor="middle" fill="#222222" font-family="'Great Vibes', 'Alex Brush', cursive" font-size="70" font-weight="bold">Beauty</text>
+  <text x="152" y="242" text-anchor="middle" fill="#222222" font-family="'Great Vibes', 'Alex Brush', cursive" font-size="76" font-weight="bold">Bar</text>
+  <text x="150" y="273" text-anchor="middle" fill="#222222" font-family="'Cinzel', 'Playfair Display', Georgia, serif" font-size="17" font-weight="600" letter-spacing="4">IOANNINA</text>
+</svg>

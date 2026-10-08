@@ -1,0 +1,8 @@
+{
+  "name": "L.A. Beauty Bar Ioannina",
+  "description": "L.A. Beauty Bar Ioannina - Κορυφαίο στούντιο περιποίησης νυχιών στα Ιωάννινα (Ανατολή). Μανικιούρ, Πεντικιούρ, Τεχνητά Νύχια, Nail Art. Κλείστε ραντεβού online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
